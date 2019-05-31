@@ -2,9 +2,9 @@
 ## Seccion 1
 Hola
 
-## Seccion 2
+### Seccion 2
 buenos dias
 
-## Seccion final 
+#### Seccion final 
 Adios
 
