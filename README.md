@@ -44,7 +44,48 @@ Use esta pagina [Github](https://pages.github.com/).
 
 @marcovc41 Jalas o te pandeas?
 
-@marcovc41 :+1:   
+@Bryan4856 :banana: :banana: for a pound, one :banana: for euro;
+
+Vamos a decir  \*Holi boli!\* en vez de  \*Holi crayoli\*.
+
+
+Judy Hopps mi heroe!!
+
+![Imagen zootopia](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnbCQIikLIySxuJeP88TMfy1Rk9uHUJ2vj-WlkEtgHr1Qn0nNuw)
+
+
+```javascript
+if (ColorAzul){
+  return true
+}
+else {
+   return "No es Azul";
+}
+```
+
+Chocolate | Fresa
+------------ | -------------
+Marron | Rosa
+Delicioso | Rico
+Helado | Malteada
+Amargo | Naturales
+
+
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+
+
+
+
+
+
 
 
 
