@@ -1,2 +1,10 @@
 # Prueba_1
-Mi primer proyecto de github
+## Seccion 1
+Hola
+
+## Seccion 2
+buenos dias
+
+## Seccion final 
+Adios
+
